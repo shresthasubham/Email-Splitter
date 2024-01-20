@@ -1,0 +1,37 @@
+ 1692931820:0;clear
+: 1692931855:0;upgrade_oh_my_zsh
+: 1692931865:0;ls -a
+: 1692931939:0;nano .zshrc
+: 1692931975:0;source .zshrc
+: 1692931992:0;dc .oh-my-zsh
+: 1692931999:0;cd .oh-my-zsh
+: 1692932008:0;cd plugins
+: 1692932009:0;ls
+: 1692932022:0;cd
+: 1692932029:0;nano .zshrc
+: 1692932062:0;source .zshrc
+: 1692932065:0;upgrade
+: 1692932247:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1692932497:0;nano .zshrc
+: 1692932537:0;source .zshrc
+: 1692932598:0;git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1692932606:0;nano .zshrc
+: 1692932636:0;source .zshrc
+: 1692932675:0;chsh -l
+: 1692932698:0;chsh -s /bin/zsh
+: 1692967574:0;top
+: 1692969542:0;sudo pacman -Sy
+: 1692973226:0;top
+: 1692975044:0;htop
+: 1692975047:0;top
+: 1692975313:0;htop
+: 1692975316:0;to
+: 1692975318:0;top
+: 1693029168:0;htop
+: 1693029170:0;top
+: 1693063867:0;sudo pacman -Syu
+: 1693063890:0;sudo pacman --help
+: 1693063898:0;sudo pacman --h
+: 1693063911:0;sudo pacman -h
+: 1693063917:0;sudo pacman -h --help
+: 1693112273:0;top
