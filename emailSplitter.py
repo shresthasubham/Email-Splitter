@@ -1,6 +1,6 @@
 def main():
     print("----Welcome to Email splitter-----")
-    print("")
+    print("") #TESST
 
     emailInput= input("Enter your email address : ")
 
